@@ -8,4 +8,9 @@ As they say, all good things come in lists.
   * Not necessarily.
 3. Why, then, was it __said__ in the first place?
   * I think it's time to move on. Maybe you'd enjoy a link to the Brooklyn Nets [roster](http://www.nba.com/nets/roster) (who wouldn't, right?)
+
 :+1:
+
+Pros | Cons
+---- | ----
+This repository is amazing | I don't have any clue what I'm doing
