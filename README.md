@@ -14,3 +14,5 @@ As they say, all good things come in lists.
 Pros | Cons
 ---- | ----
 This repository is amazing | I don't have any clue what I'm doing
+
+- [x] This project is, at last, complete
